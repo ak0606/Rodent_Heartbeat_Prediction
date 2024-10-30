@@ -1,6 +1,6 @@
-# rodent heartbeat Prediction
+# Rodent Heartbeat Prediction
 ## Overview
-This project explores the integration of machine learning techniques in analyzing electrocardiogram (ECG) data from rodents, focusing on automating heartbeat prediction. By leveraging various machine learning models and Python toolkits like NeuroKit2 and BioSPPy, this study aims to enhance the efficiency and accuracy of ECG analysis, addressing challenges posed by the nonlinear nature of ECG data.
+This project, part of my dissertation for a Master's in Data Science and Artificial Intelligence, explores the integration of machine learning techniques in analyzing electrocardiogram (ECG) data from rodents, focusing on automating heartbeat prediction. By leveraging various machine learning models and Python toolkits like NeuroKit2 and BioSPPy, this study aims to enhance the efficiency and accuracy of ECG analysis, addressing challenges posed by the nonlinear nature of ECG data.
 
 ## Objectives
 - Implement and evaluate multiple machine learning models for heartbeat prediction from rodent ECG datasets.
